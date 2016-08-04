@@ -1,0 +1,18 @@
+#addSpy {
+  margin: 20px;
+}
+.spyLine{
+  background-color: yellow;
+}
+.status {
+  float:right;
+}
+.delete {
+  float: right;
+}
+
+
+
+.highlightRed {
+  background-color: red;
+}
